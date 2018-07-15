@@ -1,0 +1,7 @@
+E:\Andrew\Workspace\Visual-Studio-Stuff\Project Euler Problem 2\bin\Debug\Project Euler Problem 2.exe.config
+E:\Andrew\Workspace\Visual-Studio-Stuff\Project Euler Problem 2\bin\Debug\Project Euler Problem 2.exe
+E:\Andrew\Workspace\Visual-Studio-Stuff\Project Euler Problem 2\bin\Debug\Project Euler Problem 2.pdb
+E:\Andrew\Workspace\Visual-Studio-Stuff\Project Euler Problem 2\obj\Debug\Project Euler Problem 2.csprojResolveAssemblyReference.cache
+E:\Andrew\Workspace\Visual-Studio-Stuff\Project Euler Problem 2\obj\Debug\Project Euler Problem 2.csproj.CoreCompileInputs.cache
+E:\Andrew\Workspace\Visual-Studio-Stuff\Project Euler Problem 2\obj\Debug\Project Euler Problem 2.exe
+E:\Andrew\Workspace\Visual-Studio-Stuff\Project Euler Problem 2\obj\Debug\Project Euler Problem 2.pdb
